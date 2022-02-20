@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Meet Shah
 - 👀 I’m interested in Web Devloping
-- 🌱 I’m currently learning ... Web Devloping & Python 
+- 🌱 I’m currently learning ... MERN stack
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... mail me 
 
