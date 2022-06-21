@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Meet Shah
 - 👀 I’m interested in Web Devloping
-- 🌱 I’m currently learning ... MERN stack
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I am currently working as NodeJs developer and also have basic knowledge of Front End 
+- 💞️ I’m looking to collaborate on NodeJs Projects
 - 📫 How to reach me ... mail me 
 
 <!---
