@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Meet Shah
-- 👀 I’m interested in Web Devloping
-- 🌱 I am currently working as NodeJs developer and also have basic knowledge of Front End 
+- 👀 I’m interested in Web development
+- 🌱 I am currently working as a NodeJs developer at Yudiz Solutions and also have basic knowledge of Front End 
 - 💞️ I’m looking to collaborate on NodeJs Projects
 - 📫 How to reach me ... mail me 
 
